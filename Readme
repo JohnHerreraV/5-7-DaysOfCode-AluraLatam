@@ -1,0 +1,12 @@
+🔢💡 Día 5/7 del reto #7DaysOfCode - Lógica JS: Arrays y colecciones 💡🔢
+
+Hoy puse en práctica el manejo de arrays y estructuras de control en JavaScript desarrollando un pequeño juego de adivinar el número secreto. 🎯
+
+🔹 Se genera un número aleatorio con Math.random()
+
+🔹 El usuario tiene una cantidad limitada de intentos (controlada con un for)
+
+🔹 Se da feedback en cada intento
+
+🔹 Si el usuario acierta, el juego finaliza de inmediato
+
